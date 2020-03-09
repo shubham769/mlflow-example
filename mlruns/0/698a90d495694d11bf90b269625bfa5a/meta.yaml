@@ -1,0 +1,15 @@
+artifact_uri: file:///home/knoldus/my_project_dir/my_project_env/projects/mlflow/examples/lightgbm/mlruns/0/698a90d495694d11bf90b269625bfa5a/artifacts
+end_time: 1583318362130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+name: ''
+run_id: 698a90d495694d11bf90b269625bfa5a
+run_uuid: 698a90d495694d11bf90b269625bfa5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1583318361527
+status: 3
+tags: []
+user_id: knoldus

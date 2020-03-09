@@ -1,0 +1,1 @@
+[{"run_id": "b310454570ba466886eb44ff5ad0f547", "artifact_path": "model", "utc_time_created": "2020-03-09 06:53:07.257953", "flavors": {"python_function": {"loader_module": "mlflow.lightgbm", "python_version": "3.6.9", "data": "model.lgb", "env": "conda.yaml"}, "lightgbm": {"lgb_version": "2.3.1", "data": "model.lgb"}}}]
